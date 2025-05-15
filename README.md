@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou [João Antônio de Souza]! 👋  
 
-<!--
-**SyphonFilter2003/SyphonFilter2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação | Backend/Full-Stack  
 
-Here are some ideas to get you started:
+🔧 **Tecnologias**:  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **Projetos Destacados**:  
+- [Steam-like Platform (Java)]()  
+- [Sistema de CRUD com autenticação (Python)]()  
+
+📫 **Vamos conversar**: [LinkedIn]([link](https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-de-souza-055736365/)), [Email](joaoantoniowb2003@gmail.com).  
