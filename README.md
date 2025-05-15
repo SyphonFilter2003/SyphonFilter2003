@@ -11,4 +11,4 @@
 - [Steam-like Platform (Java)](https://github.com/FelipeUemura11/Projeto-Loja-de-Jogos)  
 - [Sistema de CRUD com autenticação (Python)](https://github.com/SyphonFilter2003/Trabalho-da-Faculdade)  
 
-📫 **Vamos conversar**: [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-de-souza-055736365/), [Email](joaoantoniowb2003@gmail.com).  
+📫 **Vamos conversar**: [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-de-souza-055736365/), ou email de contato: joaoantoniowb2003@gmail.com
