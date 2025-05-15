@@ -8,7 +8,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
 
 🌟 **Projetos Destacados**:  
-- [Steam-like Platform (Java)]()  
+- [Steam-like Platform (Java)](https://github.com/FelipeUemura11/Projeto-Loja-de-Jogos)  
 - [Sistema de CRUD com autenticação (Python)]()  
 
 📫 **Vamos conversar**: [LinkedIn]((https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-de-souza-055736365/)), [Email](joaoantoniowb2003@gmail.com).  
