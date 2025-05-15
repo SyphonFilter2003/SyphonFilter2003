@@ -1,4 +1,4 @@
-# Olá, eu sou [João Antônio de Souza]! 👋  
+# Olá!!👋  
 
 🎓 Estudante de Ciência da Computação | Backend/Full-Stack  
 
@@ -11,4 +11,4 @@
 - [Steam-like Platform (Java)]()  
 - [Sistema de CRUD com autenticação (Python)]()  
 
-📫 **Vamos conversar**: [LinkedIn]([link](https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-de-souza-055736365/)), [Email](joaoantoniowb2003@gmail.com).  
+📫 **Vamos conversar**: [LinkedIn]((https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-de-souza-055736365/)), [Email](joaoantoniowb2003@gmail.com).  
