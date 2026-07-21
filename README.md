@@ -23,6 +23,7 @@ Construo aplicações do backend ao front-end, com foco em boas práticas, códi
 
 - [Steam-like Platform (Java)](https://github.com/FelipeUemura11/Projeto-Loja-de-Jogos) — plataforma de venda de jogos com autenticação e catálogo
 - [Sistema de CRUD com autenticação (Python)](https://github.com/SyphonFilter2003/Trabalho-da-Faculdade) — API com autenticação e persistência em banco
+- [Finance Tracker (Node.js + React + PostgreSQL)](https://github.com/J0ji-dev/Finance-Tracker) — controle financeiro pessoal com autenticação JWT, categorias e resumo mensal de receitas/despesas
 
 ## 📫 Contato
 
